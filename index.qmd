@@ -1,0 +1,10 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+---
+
+I am a PhD student in cognitive science/machine learning, researching representation learning in humans and machines under the supervision of Dr. Eric Schulz in the [Institute for Human-Centered AI](https://cpilab.org) located at  the [Helmholtz AI, Munich Germany](https://www.helmholtz.ai/).
+
+I like teaching myself and others about various technical topics. For the same reason, I have been wanting to start a blog for some time, so here we are. I am also a certified instructor with the [Software Carpentry](https://software-carpentry.org) and have taught workshops on different computational topics.

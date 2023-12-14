@@ -1,0 +1,78 @@
+---
+title: "CV"
+format:
+  html:
+    toc: true
+    toc-title: Table of contents
+    toc-location: left
+    grid:
+      margin-width: 350px
+    css: cv.css
+    reference-location: margin
+---
+
+::: {.print-only .contact-block}
+cdemircan@tutanota.com
+:::
+
+## Education
+
+**PhD -- Institute for Human Centered AI** <br> *Helmholtz AI, Munich* [*2023 --- *]{.cvdate}
+
+- Working on the interpretability of large language models, representation learning, and naturalistic learning
+- Supervised by Dr. Eric Schulz
+
+
+**MSc -- Neural & Behavioural Sciences** <br> *University of Tübingen* [*2021 --- 2023*]{.cvdate}
+
+- Thesis: Using tools of neuroscience to understand large language models: A case-study of temporal difference learning
+- Member of the International Max Planck Research School for The Mechanisms of Mental Function and Dysfunction (IMPRS MMFD).
+
+**BA -- Experimental Psychology**<br> *University of Oxford* [*2017 --- 2020*]{.cvdate}
+
+- Thesis: How Task Relevance of Stimuli and Expectations Influence Visual Information Processing in the Human Brain
+- Graduated with 1st Class Honours
+
+::: column-margin
+
+## Skills
+
+***Programming***: Python, R, MATLAB, Bash, HTML, CSS, JavaScript
+
+***Software and Tools***: Git, $\LaTeX$, Markdown, Docker, Singularity, CI/CD
+
+***Languages***: Turkish (native), English (fluent), German (beginner)
+
+:::
+
+
+## Research Experience
+
+**Research Assistant -- Computational Principles of Intelligence**<br> *Max Planck Institute for Biological Cybernetics* [*2021 --- 2023*]{.cvdate}
+
+- Investigating representational basis of how humans learn in naturalistic tasks using online experiments and computational modelling
+- Supervised by Dr. Eric Schulz
+
+**Lab Rotation Student -- Mental Health Mapping**<br> *Department of Psychiatry, University of Tübingen* [*2022 --- 2023*]{.cvdate}
+
+- Investigated how brain structures of Social Anxiety Disorder patients differ from population norms using normative modelling
+- Supervised by Dr. Thomas Wolfers
+
+**Lab Rotation Student -- Vision and Cognition Group**<br> *Centre for Integrative Neuroscience, Tübingen* [*2022*]{.cvdate}
+
+- Investigated how real and implied motion are processed in the human brain using fMRI
+- Supervised by Prof. Dr. Andreas Bartels & Dr. Pablo Grassi
+
+## Teaching Experience
+
+**Software Carpentry -- Version Control with Git**<br> *University of Twente* [*2022*]{.cvdate}
+
+- Taught a one day workshop to PhD students on how to use Git
+
+## Publications & Preprints
+
+- **Demircan, C.**, Saanum, T., Pettini, L., Binz, M., Baczkowski, B. M., Kaanders, P., ... Schulz, E. (*2023*). Language Aligned Visual Representations Predict Human Behavior in Naturalistic Learning Tasks. arXiv preprint. [paper](https://arxiv.org/abs/2306.09377), [code](https://candemircan.github.io/NaturalCogSci/), [data](https://osf.io/h3t52/)
+
+- **Demircan, C.**, Pettini, L., Saanum, T., Binz, M., Baczkowski, B. M., Doeller, C., ... Schulz, E. (*2022*). Decision-making with naturalistic options. *In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 44, No. 44)*. [paper](https://escholarship.org/uc/item/1td8q3wn), [code & data](https://github.com/candemircan/THINGSDecisions)
+
+- Şentürk, Y. D., Ünver, N., **Demircan, C.**, Egner, T., &amp; Günseli, E. (2023). The reactivation of task rules triggers the reactivation of task-relevant items. *Cortex*. [preprint](https://osf.io/t7nef), [doi](https://doi.org/10.1016/j.cortex.2023.10.024)

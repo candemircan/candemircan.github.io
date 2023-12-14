@@ -1,0 +1,38 @@
+
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "*.ipynb"
+
+execute:
+  freeze: true
+
+website:
+  title: "Can Demircan"
+  site-url: https://candemircan.github.io
+  open-graph: true
+  twitter-card: 
+    creator: "@can_demircann"
+  repo-url: https://github.com/candemircan/candemircan.github.io
+  repo-actions: [edit, issue]
+
+  navbar:
+    background: "#eee"
+    right:
+      - index.qmd
+      - cv/index.qmd
+      - blog/index.qmd
+      - icon: github
+        href: https://github.com/candemircan
+      - icon: twitter
+        href: https://twitter.com/can_demircann
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=Hu7VKscAAAAJ&hl=en
+      - icon: envelope-fill
+        href: mailto:cdemircan@tutanota.com
+
+format:
+  html:
+    theme: ember.scss
+    css: styles.css
