@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a PhD student in cognitive science/machine learning, researching representation learning in humans and machines under the supervision of Dr. Eric Schulz in the Institute for Human-Centered AI located at the Helmholtz AI, Munich Germany.\nI like teaching myself and others about various technical topics. For the same reason, I have been wanting to start a blog for some time, so here we are. I am also a certified instructor with the Software Carpentry and have taught workshops on different computational topics."
+  },
+  {
+    "objectID": "blog/posts/2023-10-20_why_do_i_have_a_blog/index.html",
+    "href": "blog/posts/2023-10-20_why_do_i_have_a_blog/index.html",
+    "title": "Why do I have a blog?",
+    "section": "",
+    "text": "This is going to be a short one."
+  },
+  {
+    "objectID": "blog/posts/2023-10-20_why_do_i_have_a_blog/index.html#why-am-i-doing-this",
+    "href": "blog/posts/2023-10-20_why_do_i_have_a_blog/index.html#why-am-i-doing-this",
+    "title": "Why do I have a blog?",
+    "section": "Why am I doing this?",
+    "text": "Why am I doing this?\nI’m writing this blog post for three reasons really:\n\nTo test whether all the website setup is working as intended.\nTo justify the existence of this website.\nTo finally commit to writing a blog1.\n\nI’ve been meaning to start writing a blog for a while now. Partially because I realised that some of the most interesting, useful, and genuine content I’ve consumed online has been in the form of blog posts. Partially because I believe it’s good for anyone to have a writing space that is persistent but not too intimidating2. And partially because I want to have more of a voice and get better at writing."
+  },
+  {
+    "objectID": "blog/posts/2023-10-20_why_do_i_have_a_blog/index.html#what-will-i-write-about",
+    "href": "blog/posts/2023-10-20_why_do_i_have_a_blog/index.html#what-will-i-write-about",
+    "title": "Why do I have a blog?",
+    "section": "What will I write about?",
+    "text": "What will I write about?\nI have a few ideas about some technical tutorials, living in Germany, and maybe some more informal writings of my research. I’m curious to see what the composition will look like."
+  },
+  {
+    "objectID": "blog/posts/2023-10-20_why_do_i_have_a_blog/index.html#footnotes",
+    "href": "blog/posts/2023-10-20_why_do_i_have_a_blog/index.html#footnotes",
+    "title": "Why do I have a blog?",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nWhat’s better than writing a blog post about starting to write a blog 😛?↩︎\nActually, this format, as is putting any content online, is still quite intimidating for me, but it is a decent compromise.↩︎"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWhy do I have a blog?\n\n\n1 min\n\n\n\nhello\n\n\n\nI’m writing my first blog post.\n\n\n\nOct 20, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "CV",
+    "section": "",
+    "text": "cdemircan@tutanota.com"
+  },
+  {
+    "objectID": "cv/index.html#education",
+    "href": "cv/index.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\nPhD – Institute for Human Centered AI  Helmholtz AI, Munich 2023 — \n\nWorking on the interpretability of large language models, representation learning, and naturalistic learning\nSupervised by Dr. Eric Schulz\n\nMSc – Neural & Behavioural Sciences  University of Tübingen 2021 — 2023\n\nThesis: Using tools of neuroscience to understand large language models: A case-study of temporal difference learning\nMember of the International Max Planck Research School for The Mechanisms of Mental Function and Dysfunction (IMPRS MMFD).\n\nBA – Experimental Psychology University of Oxford 2017 — 2020\n\nThesis: How Task Relevance of Stimuli and Expectations Influence Visual Information Processing in the Human Brain\nGraduated with 1st Class Honours"
+  },
+  {
+    "objectID": "cv/index.html#skills",
+    "href": "cv/index.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\nProgramming: Python, R, MATLAB, Bash, HTML, CSS, JavaScript\nSoftware and Tools: Git, \\(\\LaTeX\\), Markdown, Docker, Singularity, CI/CD\nLanguages: Turkish (native), English (fluent), German (beginner)"
+  },
+  {
+    "objectID": "cv/index.html#research-experience",
+    "href": "cv/index.html#research-experience",
+    "title": "CV",
+    "section": "Research Experience",
+    "text": "Research Experience\nResearch Assistant – Computational Principles of Intelligence Max Planck Institute for Biological Cybernetics 2021 — 2023\n\nInvestigating representational basis of how humans learn in naturalistic tasks using online experiments and computational modelling\nSupervised by Dr. Eric Schulz\n\nLab Rotation Student – Mental Health Mapping Department of Psychiatry, University of Tübingen 2022 — 2023\n\nInvestigated how brain structures of Social Anxiety Disorder patients differ from population norms using normative modelling\nSupervised by Dr. Thomas Wolfers\n\nLab Rotation Student – Vision and Cognition Group Centre for Integrative Neuroscience, Tübingen 2022\n\nInvestigated how real and implied motion are processed in the human brain using fMRI\nSupervised by Prof. Dr. Andreas Bartels & Dr. Pablo Grassi"
+  },
+  {
+    "objectID": "cv/index.html#teaching-experience",
+    "href": "cv/index.html#teaching-experience",
+    "title": "CV",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\nSoftware Carpentry – Version Control with Git University of Twente 2022\n\nTaught a one day workshop to PhD students on how to use Git"
+  },
+  {
+    "objectID": "cv/index.html#publications-preprints",
+    "href": "cv/index.html#publications-preprints",
+    "title": "CV",
+    "section": "Publications & Preprints",
+    "text": "Publications & Preprints\n\nDemircan, C., Saanum, T., Pettini, L., Binz, M., Baczkowski, B. M., Kaanders, P., … Schulz, E. (2023). Language Aligned Visual Representations Predict Human Behavior in Naturalistic Learning Tasks. arXiv preprint. paper, code, data\nDemircan, C., Pettini, L., Saanum, T., Binz, M., Baczkowski, B. M., Doeller, C., … Schulz, E. (2022). Decision-making with naturalistic options. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 44, No. 44). paper, code & data\nŞentürk, Y. D., Ünver, N., Demircan, C., Egner, T., & Günseli, E. (2023). The reactivation of task rules triggers the reactivation of task-relevant items. Cortex. preprint, doi"
+  }
+]
