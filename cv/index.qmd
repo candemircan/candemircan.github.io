@@ -9,17 +9,23 @@ format:
       margin-width: 350px
     css: cv.css
     reference-location: margin
+    footnotes-hover: true
+
 ---
 
 ::: {.print-only .contact-block}
 cdemircan@tutanota.com
 :::
 
+
 ## Education
+
+
+
 
 **PhD -- Institute for Human Centered AI** <br> *Helmholtz AI, Munich* [*2023 --- *]{.cvdate}
 
-- Working on the interpretability of large language models, representation learning, and naturalistic learning
+- Working on representations of deep learning models, mechanisms of learning, and interpretability
 - Supervised by Dr. Eric Schulz
 
 
@@ -46,6 +52,18 @@ cdemircan@tutanota.com
 :::
 
 
+## Publications & Preprints
+
+- **Demircan, C.**^\*^, Saanum, T.^\*^, Jagadish, A. K., Binz, M., & Schulz, E. (2024). Sparse Autoencoders Reveal Temporal Difference Learning in Large Language Models. *arXiv*. [paper](https://arxiv.org/abs/2410.01280v1) 
+
+- **Demircan, C.**, Saanum, T., Pettini, L., Binz, M., Baczkowski, B. M., Doeller, C., Garvert, M. M., Schulz, E. (*2024*). Evaluating alignment between humans and neural network representations in image-based learning tasks. *Accepted at NeurIPS 2024*. [old paper](https://arxiv.org/abs/2306.09377), [old code](https://github.com/candemircan/NaturalCogSci),[old data](https://osf.io/h3t52/)
+
+- **Demircan, C.**, Pettini, L., Saanum, T., Binz, M., Baczkowski, B. M., Doeller, C., Garvert, M. M., Schulz, E. (*2022*). Decision-making with naturalistic options. *In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 44, No. 44)*. [paper](https://escholarship.org/uc/item/1td8q3wn), [code & data](https://github.com/candemircan/THINGSDecisions)
+
+- Şentürk, Y. D., Ünver, N., **Demircan, C.**, Egner, T., &amp; Günseli, E. (2023). The reactivation of task rules triggers the reactivation of task-relevant items. *Cortex*. [preprint](https://osf.io/t7nef), [doi](https://doi.org/10.1016/j.cortex.2023.10.024)
+
+<div class="no-row-height column-margin column-container"><p><sup>*</sup>&nbsp;Equal contribution</p></div>
+
 ## Research Experience
 
 **Research Assistant -- Computational Principles of Intelligence**<br> *Max Planck Institute for Biological Cybernetics* [*2021 --- 2023*]{.cvdate}
@@ -68,11 +86,3 @@ cdemircan@tutanota.com
 **Software Carpentry -- Version Control with Git**<br> *University of Twente* [*2022*]{.cvdate}
 
 - Taught a one day workshop to PhD students on how to use Git
-
-## Publications & Preprints
-
-- **Demircan, C.**, Saanum, T., Pettini, L., Binz, M., Baczkowski, B. M., Kaanders, P., ... Schulz, E. (*2023*). Language Aligned Visual Representations Predict Human Behavior in Naturalistic Learning Tasks. arXiv preprint. [paper](https://arxiv.org/abs/2306.09377), [code](https://candemircan.github.io/NaturalCogSci/), [data](https://osf.io/h3t52/)
-
-- **Demircan, C.**, Pettini, L., Saanum, T., Binz, M., Baczkowski, B. M., Doeller, C., ... Schulz, E. (*2022*). Decision-making with naturalistic options. *In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 44, No. 44)*. [paper](https://escholarship.org/uc/item/1td8q3wn), [code & data](https://github.com/candemircan/THINGSDecisions)
-
-- Şentürk, Y. D., Ünver, N., **Demircan, C.**, Egner, T., &amp; Günseli, E. (2023). The reactivation of task rules triggers the reactivation of task-relevant items. *Cortex*. [preprint](https://osf.io/t7nef), [doi](https://doi.org/10.1016/j.cortex.2023.10.024)
