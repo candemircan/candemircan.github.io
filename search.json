@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "About",
     "section": "",
-    "text": "I am a PhD student in cognitive science/machine learning, researching representation learning in humans and machines under the supervision of Dr. Eric Schulz in the Institute for Human-Centered AI located at the Helmholtz AI, Munich Germany.\nI like teaching myself and others about various technical topics. For the same reason, I have been wanting to start a blog for some time, so here we are. I am also a certified instructor with the Software Carpentry and have taught workshops on different computational topics."
+    "text": "I am a PhD student in cognitive science/machine learning, researching representations of deep learning models, mechanisms of learning, and how to reduce these to interpretable forms. I work in the Institute for Human-Centered AI located at Helmholtz AI, Munich, Germany.\nI like teaching myself and others about various technical topics. For the same reason, I have been wanting to start a blog for some time, which is why I made this website. I am also a certified instructor with the Software Carpentry and have taught workshops on different computational topics."
   },
   {
     "objectID": "blog/posts/2023-10-20_why_do_i_have_a_blog/index.html",
@@ -53,7 +53,7 @@
     "href": "cv/index.html#education",
     "title": "CV",
     "section": "Education",
-    "text": "Education\nPhD – Institute for Human Centered AI  Helmholtz AI, Munich 2023 — \n\nWorking on the interpretability of large language models, representation learning, and naturalistic learning\nSupervised by Dr. Eric Schulz\n\nMSc – Neural & Behavioural Sciences  University of Tübingen 2021 — 2023\n\nThesis: Using tools of neuroscience to understand large language models: A case-study of temporal difference learning\nMember of the International Max Planck Research School for The Mechanisms of Mental Function and Dysfunction (IMPRS MMFD).\n\nBA – Experimental Psychology University of Oxford 2017 — 2020\n\nThesis: How Task Relevance of Stimuli and Expectations Influence Visual Information Processing in the Human Brain\nGraduated with 1st Class Honours"
+    "text": "Education\nPhD – Institute for Human Centered AI  Helmholtz AI, Munich 2023 — \n\nWorking on representations of deep learning models, mechanisms of learning, and interpretability\nSupervised by Dr. Eric Schulz\n\nMSc – Neural & Behavioural Sciences  University of Tübingen 2021 — 2023\n\nThesis: Using tools of neuroscience to understand large language models: A case-study of temporal difference learning\nMember of the International Max Planck Research School for The Mechanisms of Mental Function and Dysfunction (IMPRS MMFD).\n\nBA – Experimental Psychology University of Oxford 2017 — 2020\n\nThesis: How Task Relevance of Stimuli and Expectations Influence Visual Information Processing in the Human Brain\nGraduated with 1st Class Honours"
   },
   {
     "objectID": "cv/index.html#skills",
@@ -61,6 +61,13 @@
     "title": "CV",
     "section": "Skills",
     "text": "Skills\nProgramming: Python, R, MATLAB, Bash, HTML, CSS, JavaScript\nSoftware and Tools: Git, \\(\\LaTeX\\), Markdown, Docker, Singularity, CI/CD\nLanguages: Turkish (native), English (fluent), German (beginner)"
+  },
+  {
+    "objectID": "cv/index.html#publications-preprints",
+    "href": "cv/index.html#publications-preprints",
+    "title": "CV",
+    "section": "Publications & Preprints",
+    "text": "Publications & Preprints\n\nDemircan, C.*, Saanum, T.*, Jagadish, A. K., Binz, M., & Schulz, E. (2024). Sparse Autoencoders Reveal Temporal Difference Learning in Large Language Models. arXiv. paper\nDemircan, C., Saanum, T., Pettini, L., Binz, M., Baczkowski, B. M., Doeller, C., Garvert, M. M., Schulz, E. (2024). Evaluating alignment between humans and neural network representations in image-based learning tasks. Accepted at NeurIPS 2024. old paper, old code,old data\nDemircan, C., Pettini, L., Saanum, T., Binz, M., Baczkowski, B. M., Doeller, C., Garvert, M. M., Schulz, E. (2022). Decision-making with naturalistic options. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 44, No. 44). paper, code & data\nŞentürk, Y. D., Ünver, N., Demircan, C., Egner, T., & Günseli, E. (2023). The reactivation of task rules triggers the reactivation of task-relevant items. Cortex. preprint, doi\n\n\n\n* Equal contribution"
   },
   {
     "objectID": "cv/index.html#research-experience",
@@ -75,12 +82,5 @@
     "title": "CV",
     "section": "Teaching Experience",
     "text": "Teaching Experience\nSoftware Carpentry – Version Control with Git University of Twente 2022\n\nTaught a one day workshop to PhD students on how to use Git"
-  },
-  {
-    "objectID": "cv/index.html#publications-preprints",
-    "href": "cv/index.html#publications-preprints",
-    "title": "CV",
-    "section": "Publications & Preprints",
-    "text": "Publications & Preprints\n\nDemircan, C., Saanum, T., Pettini, L., Binz, M., Baczkowski, B. M., Kaanders, P., … Schulz, E. (2023). Language Aligned Visual Representations Predict Human Behavior in Naturalistic Learning Tasks. arXiv preprint. paper, code, data\nDemircan, C., Pettini, L., Saanum, T., Binz, M., Baczkowski, B. M., Doeller, C., … Schulz, E. (2022). Decision-making with naturalistic options. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 44, No. 44). paper, code & data\nŞentürk, Y. D., Ünver, N., Demircan, C., Egner, T., & Günseli, E. (2023). The reactivation of task rules triggers the reactivation of task-relevant items. Cortex. preprint, doi"
   }
 ]
