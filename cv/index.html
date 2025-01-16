@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.40">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-88ec883e691645a7abc5024250f0f858.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -237,7 +237,7 @@ window.Quarto = {
 <h2 class="anchored" data-anchor-id="publications-preprints">Publications &amp; Preprints</h2>
 <ul>
 <li><p><strong>Demircan, C.</strong><sup>*</sup>, Saanum, T.<sup>*</sup>, Jagadish, A. K., Binz, M., &amp; Schulz, E. (2024). Sparse Autoencoders Reveal Temporal Difference Learning in Large Language Models. <em>arXiv</em>. <a href="https://arxiv.org/abs/2410.01280v1">paper</a></p></li>
-<li><p><strong>Demircan, C.</strong>, Saanum, T., Pettini, L., Binz, M., Baczkowski, B. M., Doeller, C., Garvert, M. M., Schulz, E. (<em>2024</em>). Evaluating alignment between humans and neural network representations in image-based learning tasks. <em>Accepted at NeurIPS 2024</em>. <a href="https://arxiv.org/abs/2306.09377">old paper</a>, <a href="https://github.com/candemircan/NaturalCogSci">old code</a>,<a href="https://osf.io/h3t52/">old data</a></p></li>
+<li><p><strong>Demircan, C.</strong>, Saanum, T., Pettini, L., Binz, M., Baczkowski, B. M., Doeller, C., Garvert, M. M., Schulz, E. (<em>2024</em>). Evaluating alignment between humans and neural network representations in image-based learning tasks. <em>NeurIPS 2024</em>. <a href="https://arxiv.org/abs/2306.09377">paper</a>, <a href="https://github.com/candemircan/naturalcogsci">code</a>,<a href="https://osf.io/h3t52/">data</a></p></li>
 <li><p><strong>Demircan, C.</strong>, Pettini, L., Saanum, T., Binz, M., Baczkowski, B. M., Doeller, C., Garvert, M. M., Schulz, E. (<em>2022</em>). Decision-making with naturalistic options. <em>In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 44, No.&nbsp;44)</em>. <a href="https://escholarship.org/uc/item/1td8q3wn">paper</a>, <a href="https://github.com/candemircan/THINGSDecisions">code &amp; data</a></p></li>
 <li><p>Şentürk, Y. D., Ünver, N., <strong>Demircan, C.</strong>, Egner, T., &amp; Günseli, E. (2023). The reactivation of task rules triggers the reactivation of task-relevant items. <em>Cortex</em>. <a href="https://osf.io/t7nef">preprint</a>, <a href="https://doi.org/10.1016/j.cortex.2023.10.024">doi</a></p></li>
 </ul>
@@ -358,8 +358,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -470,7 +468,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
