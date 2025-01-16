@@ -56,7 +56,7 @@ cdemircan@tutanota.com
 
 - **Demircan, C.**^\*^, Saanum, T.^\*^, Jagadish, A. K., Binz, M., & Schulz, E. (2024). Sparse Autoencoders Reveal Temporal Difference Learning in Large Language Models. *arXiv*. [paper](https://arxiv.org/abs/2410.01280v1) 
 
-- **Demircan, C.**, Saanum, T., Pettini, L., Binz, M., Baczkowski, B. M., Doeller, C., Garvert, M. M., Schulz, E. (*2024*). Evaluating alignment between humans and neural network representations in image-based learning tasks. *Accepted at NeurIPS 2024*. [old paper](https://arxiv.org/abs/2306.09377), [old code](https://github.com/candemircan/NaturalCogSci),[old data](https://osf.io/h3t52/)
+- **Demircan, C.**, Saanum, T., Pettini, L., Binz, M., Baczkowski, B. M., Doeller, C., Garvert, M. M., Schulz, E. (*2024*). Evaluating alignment between humans and neural network representations in image-based learning tasks. *NeurIPS 2024*. [paper](https://arxiv.org/abs/2306.09377), [code](https://github.com/candemircan/naturalcogsci),[data](https://osf.io/h3t52/)
 
 - **Demircan, C.**, Pettini, L., Saanum, T., Binz, M., Baczkowski, B. M., Doeller, C., Garvert, M. M., Schulz, E. (*2022*). Decision-making with naturalistic options. *In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 44, No. 44)*. [paper](https://escholarship.org/uc/item/1td8q3wn), [code & data](https://github.com/candemircan/THINGSDecisions)
 
