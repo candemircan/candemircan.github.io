@@ -2,8 +2,8 @@
 project:
   type: website
   render:
-    - "*.qmd"
-    - "*.ipynb"
+    - "**/*.{qmd,ipynb}"  # Render all .qmd and .ipynb files
+    - "!blog/**"          # Exclude everything in "blog" directory
 
 execute:
   freeze: true
@@ -22,7 +22,7 @@ website:
     right:
       - index.qmd
       - cv/index.qmd
-      - blog/index.qmd
+      # - blog/index.qmd
       - icon: github
         href: https://github.com/candemircan
       - icon: twitter

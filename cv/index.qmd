@@ -23,7 +23,7 @@ cdemircan@tutanota.com
 
 
 
-**PhD -- Institute for Human Centered AI** <br> *Helmholtz AI, Munich* [*2023 --- *]{.cvdate}
+**PhD -- Institute for Human Centered AI** <br> *Helmholtz Munich* [*2023 --- *]{.cvdate}
 
 - Working on representations of deep learning models, mechanisms of learning, and interpretability
 - Supervised by Dr. Eric Schulz
@@ -54,11 +54,13 @@ cdemircan@tutanota.com
 
 ## Publications & Preprints
 
-- **Demircan, C.**^\*^, Saanum, T.^\*^, Jagadish, A. K., Binz, M., & Schulz, E. (2024). Sparse Autoencoders Reveal Temporal Difference Learning in Large Language Models. *arXiv*. [paper](https://arxiv.org/abs/2410.01280v1) 
+- Binz, M., ... , **Demircan, C.**, ... , Schulz, E. (2024). Centaur: a foundation model of human cognition. *arXiv*. [paper](https://arxiv.org/abs/2410.20268)
 
-- **Demircan, C.**, Saanum, T., Pettini, L., Binz, M., Baczkowski, B. M., Doeller, C., Garvert, M. M., Schulz, E. (*2024*). Evaluating alignment between humans and neural network representations in image-based learning tasks. *NeurIPS 2024*. [paper](https://arxiv.org/abs/2306.09377), [code](https://github.com/candemircan/naturalcogsci),[data](https://osf.io/h3t52/)
+- **Demircan, C.**^\*^, Saanum, T.^\*^, Jagadish, A. K., Binz, M., & Schulz, E. (2024). Sparse Autoencoders Reveal Temporal Difference Learning in Large Language Models. *ICLR 2025*. [paper](https://arxiv.org/abs/2410.01280v1) 
 
-- **Demircan, C.**, Pettini, L., Saanum, T., Binz, M., Baczkowski, B. M., Doeller, C., Garvert, M. M., Schulz, E. (*2022*). Decision-making with naturalistic options. *In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 44, No. 44)*. [paper](https://escholarship.org/uc/item/1td8q3wn), [code & data](https://github.com/candemircan/THINGSDecisions)
+- **Demircan, C.**, Saanum, T., Pettini, L., Binz, M., Baczkowski, B. M., Doeller, C., Garvert, M. M., Schulz, E. (2024). Evaluating alignment between humans and neural network representations in image-based learning tasks. *NeurIPS 2024*. [paper](https://arxiv.org/abs/2306.09377), [code](https://github.com/candemircan/naturalcogsci) ,[data](https://osf.io/h3t52/)
+
+- **Demircan, C.**, Pettini, L., Saanum, T., Binz, M., Baczkowski, B. M., Doeller, C., Garvert, M. M., Schulz, E. (2022). Decision-making with naturalistic options. *In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 44, No. 44)*. [paper](https://escholarship.org/uc/item/1td8q3wn), [code & data](https://github.com/candemircan/THINGSDecisions)
 
 - Şentürk, Y. D., Ünver, N., **Demircan, C.**, Egner, T., &amp; Günseli, E. (2023). The reactivation of task rules triggers the reactivation of task-relevant items. *Cortex*. [preprint](https://osf.io/t7nef), [doi](https://doi.org/10.1016/j.cortex.2023.10.024)
 

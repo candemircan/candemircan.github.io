@@ -5,6 +5,6 @@ about:
   template: jolla
 ---
 
-I am a PhD student in cognitive science/machine learning, researching representations of deep learning models, mechanisms of learning, and how to reduce these to interpretable forms. I work in the [Institute for Human-Centered AI](https://hcai-munich.com) located at [Helmholtz AI, Munich, Germany](https://www.helmholtz.ai/).
+I am a PhD student in cognitive science/machine learning, researching representations of deep learning models, mechanisms of learning, and how to reduce these to interpretable forms. I work in the [Institute for Human-Centered AI](https://hcai-munich.com) located at Helmholtz Munich.
 
-I like teaching myself and others about various technical topics. For the same reason, I have been wanting to start a blog for some time, which is why I made this website. I am also a certified instructor with the [Software Carpentry](https://software-carpentry.org) and have taught workshops on different computational topics.
+I like teaching myself and others about various technical topics. For the same reason, I am also an instructor with the [Software Carpentry](https://software-carpentry.org) and have taught workshops on different computational topics.
