@@ -14,3 +14,9 @@
   float: right;
   font-style: italic
 }
+
+.cell-output {
+  background-color: #f0f0f0; /* a light gray background */
+  padding: 15px; /* add some space around the output */
+  border-radius: 5px; /* round the corners */
+}

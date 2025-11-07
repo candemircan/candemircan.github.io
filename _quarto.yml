@@ -2,8 +2,9 @@
 project:
   type: website
   render:
-    - "**/*.{qmd,ipynb}"  # Render all .qmd and .ipynb files
-    - "!blog/**"          # Exclude everything in "blog" directory
+    - "cv/*.{qmd,ipynb}"  # Render all .qmd and .ipynb files
+    - "index.qmd"
+
 
 execute:
   freeze: true
@@ -21,8 +22,9 @@ website:
     background: "#eee"
     right:
       - index.qmd
-      - cv/index.qmd
-      # - blog/index.qmd
+      - text: "CV"
+        href: cv/Demircan_cv.pdf
+        target: _blank
       - icon: github
         href: https://github.com/candemircan
       - icon: twitter
@@ -36,3 +38,5 @@ format:
   html:
     theme: ember.scss
     css: styles.css
+    code-block-bg: "#f8f8f8"
+    code-block-border-left: true
