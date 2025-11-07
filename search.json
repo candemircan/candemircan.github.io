@@ -5,47 +5,5 @@
     "title": "About",
     "section": "",
     "text": "I am a PhD student in cognitive science/machine learning, researching representations of deep learning models, mechanisms of learning, and how to reduce these to interpretable forms. I work in the Institute for Human-Centered AI located at Helmholtz Munich.\nI like teaching myself and others about various technical topics. For the same reason, I am also an instructor with the Software Carpentry and have taught workshops on different computational topics."
-  },
-  {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "CV",
-    "section": "",
-    "text": "cdemircan@tutanota.com"
-  },
-  {
-    "objectID": "cv/index.html#education",
-    "href": "cv/index.html#education",
-    "title": "CV",
-    "section": "Education",
-    "text": "Education\nPhD – Institute for Human Centered AI  Helmholtz Munich 2023 — \n\nWorking on representations of deep learning models, mechanisms of learning, and interpretability\nSupervised by Dr. Eric Schulz\n\nMSc – Neural & Behavioural Sciences  University of Tübingen 2021 — 2023\n\nThesis: Using tools of neuroscience to understand large language models: A case-study of temporal difference learning\nMember of the International Max Planck Research School for The Mechanisms of Mental Function and Dysfunction (IMPRS MMFD).\n\nBA – Experimental Psychology University of Oxford 2017 — 2020\n\nThesis: How Task Relevance of Stimuli and Expectations Influence Visual Information Processing in the Human Brain\nGraduated with 1st Class Honours"
-  },
-  {
-    "objectID": "cv/index.html#skills",
-    "href": "cv/index.html#skills",
-    "title": "CV",
-    "section": "Skills",
-    "text": "Skills\nProgramming: Python, R, MATLAB, Bash, HTML, CSS, JavaScript\nSoftware and Tools: Git, \\(\\LaTeX\\), Markdown, Docker, Singularity, CI/CD\nLanguages: Turkish (native), English (fluent), German (beginner)"
-  },
-  {
-    "objectID": "cv/index.html#publications-preprints",
-    "href": "cv/index.html#publications-preprints",
-    "title": "CV",
-    "section": "Publications & Preprints",
-    "text": "Publications & Preprints\n\nBinz, M., … , Demircan, C., … , Schulz, E. (2024). Centaur: a foundation model of human cognition. arXiv. paper\nDemircan, C.*, Saanum, T.*, Jagadish, A. K., Binz, M., & Schulz, E. (2024). Sparse Autoencoders Reveal Temporal Difference Learning in Large Language Models. ICLR 2025. paper\nDemircan, C., Saanum, T., Pettini, L., Binz, M., Baczkowski, B. M., Doeller, C., Garvert, M. M., Schulz, E. (2024). Evaluating alignment between humans and neural network representations in image-based learning tasks. NeurIPS 2024. paper, code ,data\nDemircan, C., Pettini, L., Saanum, T., Binz, M., Baczkowski, B. M., Doeller, C., Garvert, M. M., Schulz, E. (2022). Decision-making with naturalistic options. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 44, No. 44). paper, code & data\nŞentürk, Y. D., Ünver, N., Demircan, C., Egner, T., & Günseli, E. (2023). The reactivation of task rules triggers the reactivation of task-relevant items. Cortex. preprint, doi\n\n\n\n* Equal contribution"
-  },
-  {
-    "objectID": "cv/index.html#research-experience",
-    "href": "cv/index.html#research-experience",
-    "title": "CV",
-    "section": "Research Experience",
-    "text": "Research Experience\nResearch Assistant – Computational Principles of Intelligence Max Planck Institute for Biological Cybernetics 2021 — 2023\n\nInvestigating representational basis of how humans learn in naturalistic tasks using online experiments and computational modelling\nSupervised by Dr. Eric Schulz\n\nLab Rotation Student – Mental Health Mapping Department of Psychiatry, University of Tübingen 2022 — 2023\n\nInvestigated how brain structures of Social Anxiety Disorder patients differ from population norms using normative modelling\nSupervised by Dr. Thomas Wolfers\n\nLab Rotation Student – Vision and Cognition Group Centre for Integrative Neuroscience, Tübingen 2022\n\nInvestigated how real and implied motion are processed in the human brain using fMRI\nSupervised by Prof. Dr. Andreas Bartels & Dr. Pablo Grassi"
-  },
-  {
-    "objectID": "cv/index.html#teaching-experience",
-    "href": "cv/index.html#teaching-experience",
-    "title": "CV",
-    "section": "Teaching Experience",
-    "text": "Teaching Experience\nSoftware Carpentry – Version Control with Git University of Twente 2022\n\nTaught a one day workshop to PhD students on how to use Git"
   }
 ]
